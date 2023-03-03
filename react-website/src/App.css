@@ -15,6 +15,16 @@ a {
   text-decoration: none;
   display: inline-block;
 }
+.form-control:focus{
+  box-shadow: none;
+  border-color: inherit;
+}
+.gap-10 {
+  gap: 10px;
+}
+.gap-15 {
+  gap: 15px;
+}
 
 /* HEADER */
 
